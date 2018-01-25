@@ -1,0 +1,17 @@
+Họ và tên	Chức vụ	Ngày tháng năm sinh	Hệ số lương
+Lê Quí Nhất	Tổng giám đốc	24/10/1996	10
+Phan Chí Công	Giám đốc	29/05/2017	8.5
+Võ Thị Tuyết Vân	Phó giám đốc	05/07/1995	7.5
+Nguyễn Vân Anh	Thư ký	01/06/1994	3.5
+Phạm Nguyễn Quỳnh Trân	Thư ký	28/04/1987	6
+Châu Thị Kim Anh	Thư ký	14/07/1995	5
+Võ An Phước Thiện	Trưởng phòng	25/01/1989	5
+Nguyễn Thi Thanh Bích	Trưởng phòng	02/06/1993	5
+Phan Huỳnh Ngọc Dung	Phó trưởng phòng	21/06/1995	4
+Lê Minh Vương	Phó trưởng phòng	15/07/1993	4
+Trần Thị Kim  Ngân	Nhân viên	06/05/1993	2.5
+Vương Thu Hiền	Nhân viên	07/07/1993	3
+Bùi Kim Quyên	Nhân viên	08/07/1991	2.5
+Nguyễn Thế Vinh	Nhân viên	14/07/1994	3
+Dương Hoài Phương	Nhân viên	12/03/1987	2.5
+Đoàn Thị Mỹ Xuân	Nhân viên	11/05/1993	3
